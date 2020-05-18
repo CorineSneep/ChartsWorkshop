@@ -1,6 +1,6 @@
 # Workshop Charts
 
-In deze workshop gaan we een chart toevoegen aan de homepagina van een web app.
+In deze workshop gaan we een bar chart toevoegen aan de homepagina van een web app.
 
 ## Charts maken met chart.js
 
