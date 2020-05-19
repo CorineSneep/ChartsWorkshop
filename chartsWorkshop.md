@@ -41,6 +41,8 @@ In deze workshop gaan we een bar chart toevoegen aan de homepagina van een web a
         name = "Utrecht",
         price = rnd.Next(10)
     });
+#### 4. Geef de data mee aan de view
+    return View(lstModel);
 
 ### Aanpassen van de view
 
